@@ -36,7 +36,7 @@ $(document).ready(function () {
     observeSlideChildren: true,
     observeParents: true,
     autoplay: {
-      delay: 33333000,
+      delay: 3000,
     },
     pagination: {
       el: ".swiper-pagination",
